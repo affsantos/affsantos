@@ -45,7 +45,6 @@ Obsessed with the intersection of **AI and Data** — bringing AI assistants fro
 ![Airflow](https://img.shields.io/badge/-Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white)
 ![Pub/Sub](https://img.shields.io/badge/-Pub%2FSub-4285F4?style=flat-square&logo=googlepubsub&logoColor=white)
 ![GCP](https://img.shields.io/badge/-Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-![Vertex AI](https://img.shields.io/badge/-Vertex_AI-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
 ![Claude](https://img.shields.io/badge/-Claude-000000?style=flat-square&logo=anthropic&logoColor=white)
 ![OpenClaw](https://img.shields.io/badge/-🦞_OpenClaw-1a1a2e?style=flat-square)
 ![Pi.dev](https://img.shields.io/badge/-⌘_Pi.dev-1a1a2e?style=flat-square)
