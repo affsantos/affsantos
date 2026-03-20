@@ -66,6 +66,7 @@ Obsessed with the intersection of **AI and Data** — bringing AI assistants fro
 ### 🤝 Connect
 
 [![LinkedIn](https://img.shields.io/badge/-André_Santos-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andreffsantos/)
+[![X](https://img.shields.io/badge/-@santosverse-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/santosverse)
 
 ---
 
