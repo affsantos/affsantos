@@ -29,6 +29,16 @@ fun_fact: >
 
 ---
 
+### 🔭 What I'm Working On
+
+Bridging **AI and Data** to make businesses smarter. Currently obsessed with bringing AI assistants from "cool demo" to enterprise-grade — reliable, observable, and actually useful at scale.
+
+At FINN, I built **Edgar** 🤖 — an internal AI assistant powered by [OpenClaw](https://github.com/openclaw/openclaw) that serves the entire company via Slack. Think ChatGPT, but wired into your data warehouse, dashboards, and business context. The hard part isn't the AI — it's making it *reliable enough that people trust it every day*.
+
+> Data platforms should be invisible. AI assistants should be indispensable.
+
+---
+
 ### 🛠️ Tech Stack
 
 ![BigQuery](https://img.shields.io/badge/-BigQuery-4285F4?style=flat-square&logo=googlebigquery&logoColor=white)
