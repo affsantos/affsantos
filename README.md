@@ -51,14 +51,6 @@ Obsessed with the intersection of **AI and Data** — bringing AI assistants fro
 ![CLI](https://img.shields.io/badge/-CLI-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 ![macOS](https://img.shields.io/badge/-macOS-000000?style=flat-square&logo=apple&logoColor=white)
 
----
-
-### 📊 GitHub Stats
-
-<p>
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=affsantos&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=affsantos&layout=compact&theme=github_dark&hide_border=true" />
-</p>
 
 ---
 
